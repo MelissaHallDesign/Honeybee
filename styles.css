@@ -1,6 +1,14 @@
 @import url("https://fonts.googleapis.com/css?family=Kaushan+Script|Dosis&display=swap");
-h2 {
-  color: #071E22;
+h1 {
+  color: #EDAE49;
+}
+
+nav ul li a {
+  color: #AC3931;
+}
+
+nav ul li {
+  text-decoration: none;
 }
 
 body {
@@ -70,5 +78,4 @@ footer {
   background-color: #743001;
   display: block;
 }
-
 /*# sourceMappingURL=styles.css.map */
