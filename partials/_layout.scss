@@ -1,0 +1,68 @@
+body {
+    background: url("../images/backgroundimg.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 30px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 15px;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #004643;
+    font-size: 25px;
+}
+
+h3,
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #004643;
+    font-size: 20px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0C1618;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li:first-child {
+    display: block;
+}
+
+nav ul li {
+    border: 1px solid #3A2618;
+    display: none;
+    background-color: #FFF8A9;
+}
+
+nav ul li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #004643;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.open li {
+    display: block;
+
+}
+
+footer {
+    padding: 15px;
+    margin: 0 auto;
+    text-align: center;
+    color:#fffae9;
+    background-color:#743001;
+    display: block;
+}

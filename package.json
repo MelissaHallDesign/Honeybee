@@ -1,0 +1,20 @@
+{
+  "name": "Honeybee",
+  "version": "1.0.0",
+  "description": "Artwork, Photography, Design, Web Development, Inspiration, Notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelissaHallDesign/Honeybee.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MelissaHallDesign/Honeybee/issues"
+  },
+  "homepage": "https://github.com/MelissaHallDesign/Honeybee#readme"
+}
